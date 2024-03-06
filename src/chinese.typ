@@ -13,23 +13,18 @@
     color: rgb(0, 0, 0),
     (
         icon: "/img/fa/fa-home.svg",
-        link: "https://zhangsan.io/",
-        content: "https://zhangsan.io/"
-    ),
-    (
-        icon: fa_github,
-        link: "https://github.com/NorthSecond",
-        content: "NorthSecond"
+        link: "https://DoZhangQiang.github.io/",
+        content: "https://DoZhangQiang.github.io/"
     ),
     (
         icon: fa_email,
-        link: "mailto:San%20Zhang<me@zahangsan.io>",
-        content: "me@zhangsan.io",
+        link: "zhangqiang020320@163.com",
+        content: "zhangqiang020320@163.com",
     ),
     (
         icon: fa_phone,
-        link: "tel:+86 133 3333 3333",
-        content: "+86 133 3333 3333",
+        link: "tel:+86 157 5621 0138",
+        content: "+86 157 5621 0138",
     ),
 )
 
